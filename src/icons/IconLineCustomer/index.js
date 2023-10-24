@@ -1,0 +1,1 @@
+export { IconLineCustomer } from "./IconLineCustomer";

@@ -1,0 +1,826 @@
+.usermanagement {
+    background-color: #252836;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .usermanagement .div {
+    background-color: #252836;
+    height: 834px;
+    overflow: hidden;
+    position: relative;
+    width: 1194px;
+  }
+  
+  .usermanagement .title {
+    align-items: center;
+    display: flex;
+    gap: 645px;
+    left: 139px;
+    padding: 0px 9px 0px 0px;
+    position: absolute;
+    top: 24px;
+    width: 1040px;
+  }
+  
+  .usermanagement .title-2 {
+    height: 65px;
+    position: relative;
+    width: 243px;
+  }
+  
+  .usermanagement .date {
+    color: #e0e6e8;
+    font-family: var(--body-large-regular-font-family);
+    font-size: var(--body-large-regular-font-size);
+    font-style: var(--body-large-regular-font-style);
+    font-weight: var(--body-large-regular-font-weight);
+    left: 0;
+    letter-spacing: var(--body-large-regular-letter-spacing);
+    line-height: var(--body-large-regular-line-height);
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .usermanagement .resto-name {
+    color: #ffffff;
+    font-family: var(--heading-h1-font-family);
+    font-size: var(--heading-h1-font-size);
+    font-style: var(--heading-h1-font-style);
+    font-weight: var(--heading-h1-font-weight);
+    left: 0;
+    letter-spacing: var(--heading-h1-letter-spacing);
+    line-height: var(--heading-h1-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .usermanagement .form-elements {
+    align-items: center;
+    background-color: #1f1d2b;
+    border: 1px solid;
+    border-color: #393c49;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    height: 48px;
+    justify-content: center;
+    padding: 14px;
+    position: relative;
+    width: 139px;
+  }
+  
+  .usermanagement .material-symbols-add {
+    height: 24px;
+    margin-bottom: -2px;
+    margin-top: -2px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .usermanagement .text-wrapper {
+    color: #ffffff;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .usermanagement .overlap-wrapper {
+    height: 871px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 104px;
+  }
+  
+  .usermanagement .overlap {
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    height: 834px;
+    position: relative;
+  }
+  
+  .usermanagement .sidebar-false-instance {
+    background-color: #1f1d2b !important;
+    left: 24px !important;
+    position: absolute !important;
+    top: 754px !important;
+  }
+  
+  .usermanagement .icon-line-log-out {
+    height: 24px !important;
+    left: 16px !important;
+    position: absolute !important;
+    top: 16px !important;
+    width: 24px !important;
+  }
+  
+  .usermanagement .menu {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    left: 12px;
+    position: absolute;
+    top: 96px;
+  }
+  
+  .usermanagement .sidebar-instance {
+    height: 102px !important;
+    position: relative !important;
+  }
+  
+  .usermanagement .design-component-instance-node {
+    background-color: #1f1d2b !important;
+  }
+  
+  .usermanagement .sidebar-2 {
+    height: 12px !important;
+    top: 0 !important;
+  }
+  
+  .usermanagement .icon-instance-node {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .usermanagement .sidebar-3 {
+    position: relative !important;
+  }
+  
+  .usermanagement .overlap-group-wrapper {
+    border-radius: 10px;
+    height: 79px;
+    position: relative;
+    width: 92px;
+  }
+  
+  .usermanagement .overlap-2 {
+    height: 104px;
+    position: relative;
+    top: -2px;
+  }
+  
+  .usermanagement .pattern-2 {
+    height: 104px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .usermanagement .rectangle-3 {
+    background-color: #1f1d2b;
+    border-radius: 12px 0px 0px 12px;
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 92px;
+  }
+  
+  .usermanagement .rectangle-4 {
+    height: 12px;
+    left: 80px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .usermanagement .rectangle-5 {
+    height: 12px;
+    left: 80px;
+    position: absolute;
+    top: 92px;
+    width: 12px;
+  }
+  
+  .usermanagement .icon-line-dashboard-wrapper {
+    align-items: flex-start;
+    background-color: #1f1d2b;
+    border-radius: 8px;
+    display: inline-flex;
+    gap: 10px;
+    left: 12px;
+    padding: 16px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .usermanagement .rectangle-6 {
+    background-color: #252836;
+    border-radius: 12px 0px 0px 12px;
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 92px;
+  }
+  
+  .usermanagement .icon-line-customer-wrapper {
+    align-items: flex-start;
+    background-color: #ca9127;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    display: inline-flex;
+    gap: 10px;
+    left: 12px;
+    padding: 16px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .usermanagement .logo {
+    height: 58px;
+    left: 24px;
+    position: absolute;
+    top: 25px;
+    width: 58px;
+  }
+  
+  .usermanagement .overlap-3 {
+    border-radius: 12px;
+    height: 58px;
+    position: relative;
+    width: 56px;
+  }
+  
+  .usermanagement .rectangle-7 {
+    background-color: #ecc781;
+    border-radius: 12px;
+    height: 58px;
+    left: 0;
+    opacity: 0.26;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }
+  
+  .usermanagement .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    position: absolute;
+    top: 16px;
+    white-space: nowrap;
+  }
+  
+  .usermanagement .overlap-4 {
+    height: 685px;
+    left: 139px;
+    position: absolute;
+    top: 127px;
+    width: 1043px;
+  }
+  
+  .usermanagement .product-management {
+    background-image: url(https://cdn.animaapp.com/projects/6525bf945f229152ac25199d/releases/6525e8e0196b2bd8eaf4b385/img/bg.svg);
+    background-size: 100% 100%;
+    height: 685px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1042px;
+  }
+  
+  .usermanagement .title-3 {
+    height: 47px;
+    left: 24px;
+    position: absolute;
+    top: 24px;
+    width: 1001px;
+  }
+  
+  .usermanagement .text-wrapper-3 {
+    color: #ffffff;
+    font-family: var(--heading-h2-font-family);
+    font-size: var(--heading-h2-font-size);
+    font-style: var(--heading-h2-font-style);
+    font-weight: var(--heading-h2-font-weight);
+    left: 0;
+    letter-spacing: var(--heading-h2-letter-spacing);
+    line-height: var(--heading-h2-line-height);
+    position: absolute;
+    top: 11px;
+    white-space: nowrap;
+    width: 301px;
+  }
+  
+  .usermanagement .form-elements-2 {
+    align-items: center;
+    background-color: #1f1d2b;
+    border: 1px solid;
+    border-color: #393c49;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    height: 47px;
+    justify-content: center;
+    left: 860px;
+    padding: 14px;
+    position: absolute;
+    top: 0;
+    width: 139px;
+  }
+  
+  .usermanagement .icon-line-option {
+    height: 20px !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    width: 20px !important;
+  }
+  
+  .usermanagement .dine-in {
+    color: #ffffff;
+    font-family: var(--body-normal-medium-font-family);
+    font-size: var(--body-normal-medium-font-size);
+    font-style: var(--body-normal-medium-font-style);
+    font-weight: var(--body-normal-medium-font-weight);
+    letter-spacing: var(--body-normal-medium-letter-spacing);
+    line-height: var(--body-normal-medium-line-height);
+    margin-top: -0.5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .usermanagement .order-report {
+    align-items: center;
+    background-color: #1f1d2b;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 598px;
+    left: 23px;
+    padding: 24px 0px 0px;
+    position: absolute;
+    top: 71px;
+    width: 1020px;
+  }
+  
+  .usermanagement .heading {
+    height: 38px;
+    position: relative;
+    width: 1015.75px;
+  }
+  
+  .usermanagement .divider {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 1016px;
+  }
+  
+  .usermanagement .header {
+    background-color: transparent;
+    height: 31px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 986px;
+  }
+  
+  .usermanagement .text-wrapper-4 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 0;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 0;
+    width: 96px;
+  }
+  
+  .usermanagement .text-wrapper-5 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 705px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 7px;
+    width: 112px;
+  }
+  
+  .usermanagement .text-wrapper-6 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 911px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 5px;
+    width: 64px;
+  }
+  
+  .usermanagement .method {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 436px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 5px;
+    width: 46px;
+  }
+  
+  .usermanagement .method-2 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 239px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 4px;
+    width: 79px;
+  }
+  
+  .usermanagement .rows {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 520px;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  
+  .usermanagement .rows-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 490px;
+    justify-content: center;
+    margin-right: -7px;
+    position: relative;
+    width: 1027px;
+  }
+  
+  .usermanagement .row-wrapper {
+    height: 468px;
+    position: relative;
+    width: 1027px;
+  }
+  
+  .usermanagement .row {
+    align-items: center;
+    background-color: #1f1d2b;
+    display: flex;
+    flex-direction: column;
+    height: 528px;
+    justify-content: space-between;
+    padding: 10px 0px;
+    position: relative;
+    top: -60px;
+    width: 984px;
+  }
+  
+  .usermanagement .content {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    position: relative;
+    width: 969px;
+  }
+  
+  .usermanagement .names {
+    height: 41.25px;
+    position: relative;
+    width: 188px;
+  }
+  
+  .usermanagement .name {
+    height: 41px;
+    position: relative;
+    width: 190px;
+  }
+  
+  .usermanagement .text-wrapper-7 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    left: 52px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: absolute;
+    top: 10px;
+    width: 136px;
+  }
+  
+  .usermanagement .avatar {
+    background-color: #64b0f6;
+    background-image: url(https://cdn.animaapp.com/projects/6525bf945f229152ac25199d/releases/6525e8e0196b2bd8eaf4b385/img/58-11.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 20.02px/19.5px;
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 40px;
+  }
+  
+  .usermanagement .text-wrapper-8 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    height: 19px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: 205px;
+  }
+  
+  .usermanagement .text-wrapper-9 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    height: 21px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .usermanagement .form-elements-3 {
+    height: 47px;
+    margin-right: -4580.5px;
+    margin-top: -1760px;
+    position: relative;
+    width: 80px;
+  }
+  
+  .usermanagement .names-2 {
+    height: 41.67px;
+    position: relative;
+    width: 158.5px;
+  }
+  
+  .usermanagement .name-2 {
+    height: 42px;
+    position: relative;
+    width: 160px;
+  }
+  
+  .usermanagement .text-wrapper-10 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    left: 52px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: absolute;
+    top: 11px;
+    width: 106px;
+  }
+  
+  .usermanagement .avatar-2 {
+    background-color: #ffb572;
+    background-image: url(https://cdn.animaapp.com/projects/6525bf945f229152ac25199d/releases/6525e8e0196b2bd8eaf4b385/img/56-11.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 20.1px/20.83px;
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 40px;
+  }
+  
+  .usermanagement .text-wrapper-11 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    width: 205px;
+  }
+  
+  .usermanagement .text-wrapper-12 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    height: 23px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .usermanagement .form-elements-4 {
+    align-items: center;
+    background-color: #1f1d2b;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    height: 47px;
+    justify-content: center;
+    padding: 14px;
+    position: relative;
+    width: 88px;
+  }
+  
+  .usermanagement .img-2 {
+    height: 21px;
+    margin-bottom: -1px;
+    margin-top: -1px;
+    position: relative;
+    width: 21px;
+  }
+  
+  .usermanagement .names-3 {
+    height: 41.25px;
+    position: relative;
+    width: 158.43px;
+  }
+  
+  .usermanagement .name-3 {
+    height: 41px;
+    position: relative;
+    width: 160px;
+  }
+  
+  .usermanagement .text-wrapper-13 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    left: 52px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: absolute;
+    top: 10px;
+    width: 106px;
+  }
+  
+  .usermanagement .form-elements-5 {
+    height: 47px;
+    position: relative;
+    width: 80px;
+  }
+  
+  .usermanagement .names-4 {
+    height: 41.67px;
+    position: relative;
+    width: 158.41px;
+  }
+  
+  .usermanagement .text-wrapper-14 {
+    color: #e0e6e8;
+    font-family: "Barlow", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    position: relative;
+    width: 205px;
+  }
+  
+  .usermanagement .text-wrapper-15 {
+    color: #e0e6e8;
+    font-family: "Barlow", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 19px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    position: relative;
+    white-space: nowrap;
+    width: 205px;
+  }
+  
+  .usermanagement .content-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 15px;
+    height: 38px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .usermanagement .text-wrapper-16 {
+    color: #7e7e7e;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 60px;
+  }
+  
+  .usermanagement .div-wrapper {
+    align-items: center;
+    background-color: #ca9127;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    display: flex;
+    gap: 10px;
+    height: 29px;
+    justify-content: center;
+    padding: 16px;
+    position: relative;
+    width: 36px;
+  }
+  
+  .usermanagement .text-wrapper-17 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    margin-bottom: -10.5px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -12.5px;
+    position: relative;
+    text-align: center;
+    width: 20px;
+  }
+  
+  .usermanagement .text-wrapper-18 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 25px;
+  }
+  
+  .usermanagement .text-wrapper-19 {
+    color: #ca9127;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 60px;
+  }
+  

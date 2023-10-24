@@ -1,0 +1,665 @@
+.institution {
+    background-color: #252836;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .institution .div {
+    background-color: #252836;
+    height: 871px;
+    position: relative;
+    width: 1171px;
+  }
+  
+  .institution .div-2 {
+    height: 871px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 104px;
+  }
+  
+  .institution .overlap {
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    height: 834px;
+    position: relative;
+  }
+  
+  .institution .sidebar-false-instance {
+    background-color: #1f1d2b !important;
+    left: 24px !important;
+    position: absolute !important;
+    top: 754px !important;
+  }
+  
+  .institution .icon-line-log-out {
+    height: 24px !important;
+    left: 16px !important;
+    position: absolute !important;
+    top: 16px !important;
+    width: 24px !important;
+  }
+  
+  .institution .menu {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    left: 12px;
+    position: absolute;
+    top: 96px;
+  }
+  
+  .institution .sidebar-instance {
+    height: 102px !important;
+    position: relative !important;
+  }
+  
+  .institution .design-component-instance-node {
+    background-color: #1f1d2b !important;
+  }
+  
+  .institution .sidebar-2 {
+    height: 12px !important;
+    top: 0 !important;
+  }
+  
+  .institution .icon-instance-node {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .institution .sidebar-3 {
+    position: relative !important;
+  }
+  
+  .institution .overlap-wrapper {
+    border-radius: 10px;
+    height: 79px;
+    position: relative;
+    width: 92px;
+  }
+  
+  .institution .overlap-2 {
+    height: 104px;
+    position: relative;
+    top: -2px;
+  }
+  
+  .institution .pattern-2 {
+    height: 104px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .institution .rectangle-3 {
+    background-color: #1f1d2b;
+    border-radius: 12px 0px 0px 12px;
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 92px;
+  }
+  
+  .institution .rectangle-4 {
+    height: 12px;
+    left: 80px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .institution .rectangle-5 {
+    height: 12px;
+    left: 80px;
+    position: absolute;
+    top: 92px;
+    width: 12px;
+  }
+  
+  .institution .icon-line-dashboard-wrapper {
+    align-items: flex-start;
+    background-color: #1f1d2b;
+    border-radius: 8px;
+    display: inline-flex;
+    gap: 10px;
+    left: 12px;
+    padding: 16px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .institution .rectangle-6 {
+    background-color: #252836;
+    border-radius: 12px 0px 0px 12px;
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 92px;
+  }
+  
+  .institution .icon-line-customer-wrapper {
+    align-items: flex-start;
+    background-color: #ca9127;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    display: inline-flex;
+    gap: 10px;
+    left: 12px;
+    padding: 16px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .institution .logo {
+    background-color: #ecc78142;
+    border-radius: 12px;
+    height: 58px;
+    left: 24px;
+    position: absolute;
+    top: 25px;
+    width: 56px;
+  }
+  
+  .institution .text-wrapper {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    position: absolute;
+    top: 38px;
+    white-space: nowrap;
+  }
+  
+  .institution .order-report {
+    align-items: center;
+    background-color: #1f1d2b;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 564px;
+    left: 132px;
+    padding: 24px 0px 0px;
+    position: absolute;
+    top: 237px;
+    width: 1020px;
+  }
+  
+  .institution .heading {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 26px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .institution .header {
+    background-color: transparent;
+    height: 44px;
+    position: relative;
+    width: 902.45px;
+  }
+  
+  .institution .text-wrapper-2 {
+    color: #f5f5f5;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 0;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 0;
+    width: 133px;
+  }
+  
+  .institution .institution-type {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 238px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 0;
+    width: 122px;
+  }
+  
+  .institution .text-wrapper-3 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 827px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 4px;
+    width: 67px;
+  }
+  
+  .institution .text-wrapper-4 {
+    color: #ffffff;
+    font-family: var(--body-normal-semibold-font-family);
+    font-size: var(--body-normal-semibold-font-size);
+    font-style: var(--body-normal-semibold-font-style);
+    font-weight: var(--body-normal-semibold-font-weight);
+    left: 447px;
+    letter-spacing: var(--body-normal-semibold-letter-spacing);
+    line-height: var(--body-normal-semibold-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .institution .divider {
+    height: 1px;
+    margin-bottom: -0.5px;
+    object-fit: cover;
+    position: relative;
+    width: 1014px;
+  }
+  
+  .institution .rows {
+    height: 394px;
+    margin-left: -1px;
+    margin-right: -1px;
+    overflow: hidden;
+    position: relative;
+    width: 1022px;
+  }
+  
+  .institution .rows-wrapper {
+    align-items: center;
+    display: flex;
+    gap: 900px;
+    height: 402px;
+    justify-content: space-around;
+    left: -7px;
+    padding: 0px 0px 0px 6px;
+    position: relative;
+    width: 1027px;
+  }
+  
+  .institution .row-wrapper {
+    height: 387px;
+    overflow: hidden;
+    position: relative;
+    width: 950px;
+  }
+  
+  .institution .row {
+    align-items: center;
+    background-color: #1f1d2b;
+    display: flex;
+    flex-direction: column;
+    height: 408px;
+    justify-content: space-between;
+    padding: 10px 0px;
+    position: relative;
+    top: -10px;
+    width: 973px;
+  }
+  
+  .institution .content {
+    align-items: flex-end;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    padding: 0px 6px;
+    position: relative;
+    width: 925px;
+  }
+  
+  .institution .names {
+    height: 47px;
+    position: relative;
+    width: 304px;
+  }
+  
+  .institution .name {
+    height: 32px;
+    left: 59px;
+    position: absolute;
+    top: 14px;
+    width: 247px;
+  }
+  
+  .institution .text-wrapper-5 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    left: 0;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: absolute;
+    top: 10px;
+    white-space: nowrap;
+    width: 128px;
+  }
+  
+  .institution .div-wrapper {
+    height: 21px;
+    left: 185px;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .institution .text-wrapper-6 {
+    color: #ffffff;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    left: 0;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .institution .school-campus {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 41px;
+  }
+  
+  .institution .p {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    height: 63px;
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    width: 227px;
+  }
+  
+  .institution .span {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+  }
+  
+  .institution .text-wrapper-7 {
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    text-decoration: underline;
+  }
+  
+  .institution .frame-2 {
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .institution .content-2 {
+    align-items: flex-end;
+    display: flex;
+    height: 71px;
+    justify-content: space-between;
+    padding: 0px 6px;
+    position: relative;
+    width: 925px;
+  }
+  
+  .institution .content-3 {
+    align-items: center;
+    display: inline-flex;
+    gap: 15px;
+    height: 38px;
+    justify-content: center;
+    position: relative;
+  }
+  .institution .pagination {
+    display: inline-block;
+  }
+  
+  .institution .pagination a {
+    color: #fff;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+  .institution .pagination a.active {
+    align-items: center;
+    background-color: #ca9127;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    display: flex;
+    gap: 10px;
+    height: 29px;
+    justify-content: center;
+    padding: 16px;
+    position: relative;
+    width: 36px;
+  }
+
+  .institution .pagination a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    color: #ca9127;
+  }
+
+
+
+
+  
+  .institution .text-wrapper-8 {
+    color: #7e7e7e;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 60px;
+  }
+  
+  .institution .frame-3 {
+    align-items: center;
+    background-color: #ca9127;
+    border-radius: 8px;
+    box-shadow: 0px 8px 24px #ca912752;
+    display: flex;
+    gap: 10px;
+    height: 29px;
+    justify-content: center;
+    padding: 16px;
+    position: relative;
+    width: 36px;
+  }
+  
+  .institution .text-wrapper-9 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    margin-bottom: -10.5px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -12.5px;
+    position: relative;
+    text-align: center;
+    width: 20px;
+  }
+  
+  .institution .text-wrapper-10 {
+    color: #e0e6e8;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 25px;
+  }
+  
+  .institution .text-wrapper-11 {
+    color: #ca9127;
+    font-family: var(--body-normal-regular-font-family);
+    font-size: var(--body-normal-regular-font-size);
+    font-style: var(--body-normal-regular-font-style);
+    font-weight: var(--body-normal-regular-font-weight);
+    letter-spacing: var(--body-normal-regular-letter-spacing);
+    line-height: var(--body-normal-regular-line-height);
+    position: relative;
+    text-align: center;
+    width: 60px;
+  }
+  
+  .institution .divider-2 {
+    height: 5px;
+    margin-left: -1.5px;
+    margin-right: -1.5px;
+    object-fit: cover;
+    position: relative;
+    width: 1023px;
+  }
+  
+  .institution .frame-4 {
+    align-items: center;
+    display: flex;
+    gap: 12px;
+    height: 35px;
+    left: 171px;
+    position: absolute;
+    top: 163px;
+    width: 172px;
+  }
+  
+  .institution .complete {
+    height: 25px;
+    margin-left: -1px;
+    position: relative;
+    width: 34px;
+  }
+  
+  .institution .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-right: -3px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .institution .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    gap: 11px;
+    left: 1013px;
+    position: absolute;
+    top: 166px;
+  }
+  
+  .institution .filters-svgrepo {
+    height: 33px;
+    position: relative;
+    width: 33px;
+  }
+  
+  .institution .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .institution .title {
+    align-items: center;
+    display: flex;
+    gap: 609px;
+    left: 131px;
+    padding: 0px 9px 0px 0px;
+    position: absolute;
+    top: 32px;
+    width: 1040px;
+  }
+  
+  .institution .title-2 {
+    height: 65px;
+    position: relative;
+    width: 300px;
+  }
+  
+  .institution .date {
+    color: #e0e6e8;
+    font-family: var(--body-large-regular-font-family);
+    font-size: var(--body-large-regular-font-size);
+    font-style: var(--body-large-regular-font-style);
+    font-weight: var(--body-large-regular-font-weight);
+    left: 0;
+    letter-spacing: var(--body-large-regular-letter-spacing);
+    line-height: var(--body-large-regular-line-height);
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .institution .resto-name {
+    color: #ffffff;
+    font-family: var(--heading-h1-font-family);
+    font-size: var(--heading-h1-font-size);
+    font-style: var(--heading-h1-font-style);
+    font-weight: var(--heading-h1-font-weight);
+    left: 0;
+    letter-spacing: var(--heading-h1-letter-spacing);
+    line-height: var(--heading-h1-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  

@@ -1,0 +1,64 @@
+.component {
+    height: 56px;
+    width: 624px;
+  }
+  
+  .component .frame {
+    height: 56px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .component .div {
+    height: 44px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    width: 284px;
+  }
+  
+  .component .text-wrapper {
+    color: #b9b9b9;
+    font-family: "Barlow", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+    width: 287px;
+  }
+  
+  .component .divider {
+    height: 4px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 34px;
+    width: 267px;
+  }
+  
+  .component .frame-2 {
+    height: 44px;
+    left: 351px;
+    position: absolute;
+    top: 6px;
+    width: 284px;
+  }
+  
+  .component .text-wrapper-2 {
+    color: #b9b9b9;
+    font-family: "Barlow", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 8px;
+    width: 267px;
+  }
+  

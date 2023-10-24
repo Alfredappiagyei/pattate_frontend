@@ -1,0 +1,9 @@
+.editUserModal {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    position: relative;
+  }
+  

@@ -1,0 +1,217 @@
+.add-user-modal {
+    background-color: #252836;
+    border-radius: 16px;
+    height: 454px;
+    overflow: hidden;
+    position: relative;
+    width: 686px;
+  }
+  
+  .add-user-modal .overlap-group {
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 686px;
+  }
+  
+  .add-user-modal .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+  }
+  
+  .add-user-modal .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 319px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 715px;
+    white-space: nowrap;
+  }
+  
+  .add-user-modal .frame-3 {
+    height: 56px;
+    left: 30px;
+    overflow: hidden;
+    position: absolute;
+    top: 233px;
+    width: 624px;
+  }
+  
+  .add-user-modal .frame-4 {
+    height: 44px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    width: 284px;
+  }
+  
+  .add-user-modal .text-wrapper-5 {
+    color: #b9b9b9;
+    font-family: "Barlow", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+    width: 287px;
+  }
+  
+  .add-user-modal .img {
+    height: 4px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 34px;
+    width: 267px;
+  }
+  
+  .add-user-modal .frame-5 {
+    height: 44px;
+    left: 351px;
+    position: absolute;
+    top: 6px;
+    width: 284px;
+  }
+  
+  .add-user-modal .user-role {
+    color: transparent;
+    font-family: "Barlow", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 8px;
+    width: 122px;
+  }
+  
+  .add-user-modal .span {
+    color: #b9b9b9;
+  }
+  
+  .add-user-modal .text-wrapper-6 {
+    color: #ffffff;
+  }
+  
+  .add-user-modal .mdi-caret-down {
+    height: 24px;
+    left: 241px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+  }
+  
+  .add-user-modal .frame-wrapper {
+    height: 56px;
+    left: 31px;
+    overflow: hidden;
+    position: absolute;
+    top: 168px;
+    width: 624px;
+  }
+  
+  .add-user-modal .frame-6 {
+    height: 44px;
+    position: relative;
+    top: 6px;
+    width: 631px;
+  }
+  
+  .add-user-modal .text-wrapper-7 {
+    color: #b9b9b9;
+    font-family: "Barlow", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+    width: 615px;
+  }
+  
+  .add-user-modal .divider-2 {
+    height: 4px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 33px;
+    width: 615px;
+  }
+  
+  .add-user-modal .div-wrapper {
+    height: 56px;
+    left: 32px;
+    overflow: hidden;
+    position: absolute;
+    top: 302px;
+    width: 624px;
+  }
+  
+  .add-user-modal .form-elements {
+    align-items: center;
+    background-color: #ca9127;
+    border: 1px solid;
+    border-color: #393c49;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    height: 58px;
+    justify-content: center;
+    left: 252px;
+    padding: 14px;
+    position: absolute;
+    top: 366px;
+    width: 189px;
+  }
+  
+  .add-user-modal .text-wrapper-8 {
+    color: #ffffff;
+    font-family: var(--body-normal-medium-font-family);
+    font-size: var(--body-normal-medium-font-size);
+    font-style: var(--body-normal-medium-font-style);
+    font-weight: var(--body-normal-medium-font-weight);
+    letter-spacing: var(--body-normal-medium-letter-spacing);
+    line-height: var(--body-normal-medium-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .add-user-modal .group {
+    height: 56px;
+    left: 31px;
+    position: absolute;
+    top: 104px;
+    width: 624px;
+  }
+  
+  .add-user-modal .component-instance {
+    width: unset !important;
+  }
+  
+  .add-user-modal .design-component-instance-node {
+    width: 624px !important;
+  }
+  

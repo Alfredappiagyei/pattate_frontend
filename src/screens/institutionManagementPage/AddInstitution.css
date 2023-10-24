@@ -1,0 +1,215 @@
+.addinstitution {
+    background-color: #252836;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .addinstitution .div {
+    background-color: #252836;
+    height: 808px;
+    overflow: hidden;
+    position: relative;
+    width: 892px;
+  }
+  
+  .addinstitution .overlap {
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 892px;
+  }
+  
+  .addinstitution .text-wrapper {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .overlap-group {
+    background-color: #ca9127;
+    border-radius: 16px;
+    height: 67px;
+    left: 324px;
+    position: absolute;
+    top: 702px;
+    width: 243px;
+  }
+  
+  .addinstitution .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 52px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 103px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 206px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 304px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .rectangle-wrapper {
+    background-color: #d9d9d9;
+    height: 1px;
+    left: 45px;
+    position: absolute;
+    top: 162px;
+    width: 692px;
+  }
+  
+  .addinstitution .rectangle {
+    background-color: #d9d9d9;
+    height: 1px;
+  }
+  
+  .addinstitution .div-wrapper {
+    background-color: #d9d9d9;
+    height: 2px;
+    left: 45px;
+    position: absolute;
+    top: 273px;
+    width: 692px;
+  }
+  
+  .addinstitution .rectangle-2 {
+    background-color: #d9d9d9;
+    height: 1px;
+    position: relative;
+    top: 1px;
+  }
+  
+  .addinstitution .overlap-2 {
+    background-color: #d9d9d9;
+    height: 1px;
+    left: 45px;
+    position: absolute;
+    top: 373px;
+    width: 698px;
+  }
+  
+  .addinstitution .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 502px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .rectangle-3 {
+    background-color: #d9d9d9;
+    height: 1px;
+    left: 45px;
+    position: absolute;
+    top: 571px;
+    width: 698px;
+  }
+  
+  .addinstitution .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 601px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .rectangle-4 {
+    background-color: #d9d9d9;
+    height: 1px;
+    left: 45px;
+    position: absolute;
+    top: 670px;
+    width: 698px;
+  }
+  
+  .addinstitution .img {
+    height: 1px;
+    left: 3555px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 698px;
+  }
+  
+  .addinstitution .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 393px;
+    white-space: nowrap;
+  }
+  
+  .addinstitution .rectangle-5 {
+    background-color: #d9d9d9;
+    height: 1px;
+    left: 45px;
+    position: absolute;
+    top: 463px;
+    width: 698px;
+  }
+  

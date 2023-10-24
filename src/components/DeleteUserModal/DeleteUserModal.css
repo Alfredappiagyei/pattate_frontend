@@ -1,0 +1,144 @@
+.deleteUserModal {
+    background-color: #252836;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .deleteUserModal .div {
+    background-color: #252836;
+    height: 454px;
+    overflow: hidden;
+    position: relative;
+    width: 686px;
+  }
+  
+  .deleteUserModal .overlap-group {
+    background-color: #1f1d2b;
+    border-radius: 16px;
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 686px;
+  }
+  
+  .deleteUserModal .add-new-user {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+  }
+  
+  .deleteUserModal .text-wrapper {
+    color: #ffffff;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 319px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    top: 715px;
+    white-space: nowrap;
+  }
+  
+  .deleteUserModal .p {
+    color: #fffcfc;
+    font-family: "Barlow", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 64px;
+    left: 66px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    position: absolute;
+    text-align: center;
+    top: 172px;
+    width: 554px;
+  }
+  
+  .deleteUserModal .frame {
+    align-items: center;
+    display: inline-flex;
+    gap: 39px;
+    justify-content: center;
+    left: 22px;
+    padding: 3px 70px;
+    position: absolute;
+    top: 366px;
+  }
+  
+  .deleteUserModal .form-elements {
+    align-items: center;
+    background-color: #ca9127;
+    border: 1px solid;
+    border-color: #393c49;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    height: 46.59px;
+    justify-content: center;
+    padding: 14px;
+    position: relative;
+    width: 231.01px;
+  }
+  
+  .deleteUserModal .img {
+    height: 24px;
+    margin-bottom: -2.7px;
+    margin-top: -2.7px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .deleteUserModal .dine-in {
+    color: #ffffff;
+    font-family: var(--body-normal-medium-font-family);
+    font-size: var(--body-normal-medium-font-size);
+    font-style: var(--body-normal-medium-font-style);
+    font-weight: var(--body-normal-medium-font-weight);
+    letter-spacing: var(--body-normal-medium-letter-spacing);
+    line-height: var(--body-normal-medium-line-height);
+    margin-top: -0.7px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .deleteUserModal .form-elements-2 {
+    align-items: center;
+    background-color: #1f1d2b;
+    border: 1px solid;
+    border-color: #ca9127;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    height: 46.59px;
+    justify-content: center;
+    padding: 14px;
+    position: relative;
+    width: 231.01px;
+  }
+  
+  .deleteUserModal .text-wrapper-2 {
+    color: #ca9127;
+    font-family: var(--body-normal-medium-font-family);
+    font-size: var(--body-normal-medium-font-size);
+    font-style: var(--body-normal-medium-font-style);
+    font-weight: var(--body-normal-medium-font-weight);
+    letter-spacing: var(--body-normal-medium-letter-spacing);
+    line-height: var(--body-normal-medium-line-height);
+    margin-top: -0.7px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
